@@ -27,8 +27,10 @@ export default function Home() {
 			</section>
 
 			<span className="absolute bottom-4 right-4 text-sm text-muted-foreground">
-				<Button variant="ghost" size="icon">
-					<GitHubLogoIcon className="h-5 w-5" />
+				<Button variant="ghost" size="icon" asChild>
+					<Link target="_blank" href="https://github.com/damianoconnor04/human-design">
+						<GitHubLogoIcon className="h-5 w-5" />
+					</Link>
 				</Button>
 			</span>
 

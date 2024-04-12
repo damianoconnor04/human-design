@@ -12,8 +12,8 @@ const sans = DM_Sans({ subsets: ["latin"] });
 export { inter, sans };
 
 export const metadata: Metadata = {
-	title: "OCMC Counseling",
-	description: "Bianca O'Connor McDermott is a Licensed Professional Counselor providing mental health and aging psychotherapy by telehealth in Pennsylvania.",
+	title: "Human Design Archive",
+	description: "A collection of my work for INFO310",
 };
 
 export default function RootLayout({

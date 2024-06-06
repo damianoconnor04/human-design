@@ -14,7 +14,7 @@ export default function Home() {
 
 				<div className="flex w-full items-center justify-center space-x-4 py-4 md:pb-10">
 					<Button asChild>
-						<Link href="/week-2">
+						<Link href="/week-8">
 							This Week
 						</Link>
 					</Button>
